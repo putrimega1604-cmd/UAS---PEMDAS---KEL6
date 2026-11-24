@@ -224,6 +224,7 @@ async function main() {
     console.log("    Terima Kasih Telah Menggunakan Layanan Kami   ");
     console.log("==================================================\n");
     console.log("PEMBUATAN PR ZAKY");
+    console.log("PEMBUATAN PR MEGA");
   }
 
   // Menutup interface readline setelah program selesai
